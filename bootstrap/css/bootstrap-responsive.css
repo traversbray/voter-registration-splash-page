@@ -861,13 +861,14 @@
   .row-fluid [class*="span"] {
     display: block;
     float: none;
-    font-size: 20px;
-    width: 300px;
-    margin-left:40px;
+    font-size: 14px;
+    width: 430px;
+    margin-left:0px;
     -webkit-box-sizing: border-box;
        -moz-box-sizing: border-box;
             box-sizing: border-box;
-  }
+      
+  } 
   .span12,
   .row-fluid .span12 {
     width: 100%;
