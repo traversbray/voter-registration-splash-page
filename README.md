@@ -11,4 +11,4 @@ The rest pulls automatically from the index.php and functions.php files.
 
 There is a database built that holds voter information such as first name, last name, email, and zip. But for security purposes, i didn't actually connect the database. 
 
-
+The website is mobile responsive thanks to a couple of edits in bootstrap-responsive.css
